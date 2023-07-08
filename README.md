@@ -8,7 +8,7 @@ Software engineer, Full Stack Web Developer, Cybersecurity enthusiast, and aspir
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="Fire.gif" />
 
-:shipit: [**Pakistan Institute of Engineering and Applied Sciences**][ur] Potato
+:shipit: [**Pakistan Institute of Engineering and Applied Sciences**][ur] Senior
 :shipit: [**Government College University ,Lahore**][systems] Roll of Honor,ICS 
 :shipit: [**Cyber Secured India**][systems] Intern  
 :shipit: [**PIEAS Cyber Security Club**][siggraph] President  
