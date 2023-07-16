@@ -54,8 +54,8 @@ Other skills: :paintbrush: painting,
 
 Let's connect and talk about…
 
-algorithms, AR/VR, data structures, machine learning, steganography,pen testing
-parallel computing, programming languages, software design, web
+AI, machine learning, steganography,cybersecurity, pen testing
+cloud computing, programming languages, software design, web
 development,
 
 …or anything you'd like. （๑╹◡╹๑）
