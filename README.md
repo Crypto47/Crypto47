@@ -44,7 +44,7 @@ Other skills: :paintbrush: painting,
 
 
 <p align="center">
-    <b>Looking for a software engineering intern?
+    <b>Looking for a Software Engineer?
         <a href="https://www.linkedin.com/in/musabjaved/">Let's connect and talk!</a>
     </b>
 </p>
