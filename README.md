@@ -58,7 +58,7 @@ I'm **Musaab Javed**, a passionate **Software Engineer**, **Full Stack Web Devel
 An AI-driven startup focused on **digital rights protection** using **GAN-based steganography**. WhisperFrames embeds data into images for safekeeping and tracking, allowing users to verify image originality.
 
 **Key Technologies:**
-- Flask
+- FastAPI
 - SteganoGAN
 - OpenAI APIs
 
@@ -95,8 +95,8 @@ Developing and deploying APIs using FastAPI, managing vector databases with Pine
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Crypto47&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto47&layout=compact&theme=dracula" alt="Top Languages"/>
 </div>
 
 ## 📝 Recent Blog Posts
@@ -107,7 +107,7 @@ Developing and deploying APIs using FastAPI, managing vector databases with Pine
 ---
 
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=your-username&icon=0&color=1" alt="Profile Visits"/>
+    <img src="https://visitcount.itsvg.in/api?id=Crypto47&icon=0&color=1" alt="Profile Visits"/>
 </div>
 
 **💡 Always learning, always growing.**
