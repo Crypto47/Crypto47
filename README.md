@@ -1,77 +1,112 @@
-# Hi, I'm Musaab :wave:
+# Hi there, I'm Musaab Javed 👋
 
-Software engineer, Full Stack Web Developer, Cybersecurity enthusiast, and aspiring software entrepreneur.  
+![Banner](https://your-image-url.com/banner.png)
 
-[Crypto]: https://github.com/Crypto47
+## 🚀 About Me
 
-## Life
-
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="Fire.gif" />
-
-:shipit: [**Pakistan Institute of Engineering and Applied Sciences**][ur] Senior
-:shipit: [**Government College University ,Lahore**][systems] Roll of Honor,ICS 
-:shipit: [**PIEAS Cyber Security Club**][siggraph] President  
-
-[ur]: https://rochester.edu
-[siggraph]: https://siggraph.org
-[42tm]: https://github.com/42tm
-[systems]: https://www.cs.rochester.edu/dept/systems/
-[csug]: https://ur-csug.org
-[dandyhacks]: https://dandyhacks.net
-[roclab]: https://roclab.io
-
-## Skills
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-
-Other skills: :paintbrush: painting, 
-🏏: cricket, 🎮: Gaming
-
-### Software
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)
-
-
-
-
-
-
-<p align="center">
-    <b>Looking for a Software Engineer?
-        <a href="https://www.linkedin.com/in/musabjaved/">Let's connect and talk!</a>
-    </b>
-</p>
-
-### Interests
-
-Let's connect and talk about…
-
-AI, machine learning, steganography,cybersecurity, pen testing
-cloud computing, programming languages, software design, web
-development,
-
-…or anything you'd like. （๑╹◡╹๑）
-
+I'm **Musaab Javed**, a passionate **Software Engineer**, **Full Stack Web Developer**, **Cybersecurity Enthusiast**, and an aspiring **Software Entrepreneur** based in Lahore, Pakistan. With a strong foundation in both development and security, I strive to create solutions that are not only functional but also secure and scalable.
 
 ---
 
-<!--<a href="https://novakcgx.me">
-    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
-</a>-->
+## 🎓 Education & Achievements
 
-<a href="mailto:musabjaved47@gmail.com">
-    <img height="32" align="left" alt="Mail" src="gmail.png" />
-</a>
+- **Pakistan Institute of Engineering and Applied Sciences (PIEAS)**
+  - Senior Student
+  - President, PIEAS Cyber Security Club
+- **Government College University, Lahore**
+  - Roll of Honor, ICS
 
-<a href="https://www.linkedin.com/in/musabjaved/">
-    <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
-</a>
+**Awards:**
+- Winner of **AGHOSH PIEAS**
+- Winner of **Zindigi Prize PIEAS**
+- Runner-up at **Zindigi Prize Islamabad Regionals**
 
+---
 
+## 🛠️ Skills
+
+### Programming Languages
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### Other Skills
+- 🖌️ **Painting**
+- 🏏 **Cricket**
+- 🎮 **Gaming**
+
+---
+
+## 💻 Software & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
+
+---
+
+## 🔧 Current Projects
+
+### **WhisperFrames**
+*Co-Founder & Technical Lead*
+
+An AI-driven startup focused on **digital rights protection** using **GAN-based steganography**. WhisperFrames embeds data into images for safekeeping and tracking, allowing users to verify image originality.
+
+**Key Technologies:**
+- Flask
+- SteganoGAN
+- OpenAI APIs
+
+**Achievements:**
+- Winner of AGHOSH PIEAS and Zindigi Prize PIEAS
+- Runner-up at Zindigi Prize Islamabad Regionals
+
+### **Zaltech AI**
+*AI Engineer*
+
+Developing and deploying APIs using FastAPI, managing vector databases with Pinecone, and integrating custom NLP models with Ollama and OpenAI APIs.
+
+---
+
+## 🌟 Interests
+
+- **AI & Machine Learning**
+- **Generative AI**
+- **Steganography**
+- **Cybersecurity & Pen Testing**
+- **Cloud Computing**
+- **Programming Languages**
+- **Software Design**
+- **Web Development**
+- **RAG (Retrieval-Augmented Generation)**
+- **Bots Development**
+- **Open Source Projects**
+- **Solving Real-World Problems**
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, opportunities, or just a friendly chat! Feel free to reach out:
+
+- **Email:** [musabjaved47@gmail.com](mailto:musabjaved47@gmail.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
+---
+
+## 📈 GitHub Stats
+
+![Musaab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula)
+
+---
+
+## 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
