@@ -49,11 +49,10 @@ I'm **Musaab Javed**, a passionate **Software Engineer**, **Full Stack Web Devel
 ### 📦 WhisperFrames
 *Co-Founder & Technical Lead*
 
-An AI-driven startup focused on **digital rights protection** using **GAN-based steganography**. WhisperFrames embeds data into images for safekeeping and tracking, allowing users to verify image originality.
+An AI-driven startup focused on **digital rights protection** using **deep learning GAN-based steganography**. WhisperFrames embeds data into images for safekeeping and tracking, allowing users to verify image originality.
 
 **Key Technologies:**
 - FastAPI
-- SteganoGAN
 - OpenAI APIs
 
 **Achievements:**
