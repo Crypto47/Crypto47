@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Cybersecurity+Enthusiast;Co-Founder+%40+WhisperFrames;Full+Stack+Developer;Building+Secure+AI+Solutions" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Automation+Specialist;n8n+Workflow+Expert;Co-Founder+%40+WhisperFrames;Building+Intelligent+Automation+Systems" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -23,19 +23,20 @@
 
 ## 🚀 About Me
 
-I'm **Musaab Javed**, a passionate **AI Engineer**, **Full Stack Developer**, **Cybersecurity Enthusiast**, and **Software Entrepreneur** based in Lahore, Pakistan. I specialize in building secure, scalable AI solutions that solve real-world problems. Currently leading **WhisperFrames**, an AI-driven startup protecting digital rights through deep learning and steganography.
+I'm **Musaab Javed**, a passionate **AI Engineer**, **Workflow Automation Specialist**, **Cybersecurity Enthusiast**, and **Software Entrepreneur** based in Lahore, Pakistan. I specialize in building intelligent automation systems that bridge AI capabilities with real-world workflows. Currently leading **WhisperFrames**, an AI-driven startup protecting digital rights through deep learning and steganography, while architecting complex automation pipelines at **Zaltech AI**.
 
 ```python
 class MusaabJaved:
     def __init__(self):
-        self.role = "AI Engineer & Cybersecurity Enthusiast"
+        self.role = "AI Engineer & Automation Specialist"
         self.location = "Lahore, Pakistan"
         self.education = "PIEAS - Senior Student"
-        self.current_focus = ["Generative AI", "RAG Systems", "Cybersecurity"]
+        self.current_focus = ["Generative AI", "Workflow Automation", "RAG Systems"]
+        self.specialties = ["n8n Automation", "AI Integration", "Cybersecurity"]
         self.startup = "WhisperFrames - Co-Founder"
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+        print("Thanks for dropping by! Let's automate something amazing together.")
 
 me = MusaabJaved()
 me.say_hi()
@@ -93,12 +94,14 @@ FastAPI • TensorFlow/PyTorch • GANs • OpenAI APIs • Python • React
 ## 💼 Professional Experience
 
 ### 🤖 **Zaltech AI** - *AI Engineer*
-*Building Production-Ready AI Solutions*
+*Building Production-Ready AI Solutions & Intelligent Automation*
 
 - 🔧 Developing and deploying APIs using **FastAPI**
-- 🗄️ Managing vector databases with **Pinecone**
+- 🔄 Architecting complex **n8n automation workflows** integrating AI agents
+- 🗄️ Managing vector databases with **Pinecone** for RAG systems
 - 🧠 Integrating custom NLP models with **Ollama** and **OpenAI APIs**
-- 📊 Building **RAG (Retrieval-Augmented Generation)** systems
+- 📊 Building end-to-end **RAG (Retrieval-Augmented Generation)** pipelines
+- 🤖 Creating intelligent automation systems with multi-agent workflows
 - 🚀 Deploying scalable AI solutions for enterprise clients
 
 ---
@@ -118,6 +121,7 @@ FastAPI • TensorFlow/PyTorch • GANs • OpenAI APIs • Python • React
 <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -146,6 +150,7 @@ FastAPI • TensorFlow/PyTorch • GANs • OpenAI APIs • Python • React
 ```javascript
 const currentlyLearning = {
     ai_ml: ["Advanced RAG Architectures", "LLM Fine-tuning (LoRA/QLoRA)", "Production ML Deployment"],
+    automation: ["Advanced n8n Workflows", "Multi-Agent Systems", "AI-Powered Automation"],
     cybersecurity: ["Advanced Pen Testing", "Security Automation", "Threat Intelligence"],
     cloud: ["AWS/GCP", "Kubernetes", "Serverless Architectures"],
     research: ["GAN Optimization", "Steganography Techniques", "Model Compression"]
@@ -184,46 +189,46 @@ const currentlyLearning = {
 
 ### 🤖 Artificial Intelligence
 - Generative AI & LLMs
-- RAG Systems
+- RAG Systems Architecture
 - Model Fine-tuning (LoRA/QLoRA)
 - Deep Learning (GANs, CNNs)
 - NLP & Embeddings
-- Vector Databases
+- Vector Databases (Pinecone)
 
 </td>
 <td width="50%">
 
-### 🔐 Cybersecurity
-- Penetration Testing
-- Security Automation
-- Steganography
-- Threat Analysis
-- Network Security
-- Secure System Design
+### ⚡ Workflow Automation
+- **n8n Advanced Workflows**
+- Multi-Agent AI Systems
+- API Integration & Orchestration
+- LinkedIn Automation
+- Data Pipeline Engineering
+- Intelligent Process Automation
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💻 Full Stack Development
-- FastAPI & REST APIs
-- React & Modern JS
-- Database Design
-- Cloud Deployment
-- Microservices Architecture
-- DevOps Practices
+### 🔐 Cybersecurity
+- Penetration Testing
+- Security Automation
+- Steganography & Cryptography
+- Threat Analysis
+- Network Security
+- Secure System Design
 
 </td>
 <td width="50%">
 
-### 🚀 Startup & Innovation
-- Product Development
-- Technical Leadership
-- MVP Development
-- Pitch & Presentations
-- Team Building
-- Agile Methodologies
+### 💻 Full Stack Development
+- FastAPI & REST APIs
+- React & Modern JavaScript
+- Database Design & Management
+- Cloud Deployment (AWS/GCP)
+- Microservices Architecture
+- DevOps & CI/CD
 
 </td>
 </tr>
@@ -272,10 +277,11 @@ const currentlyLearning = {
 I'm always interested in collaborating on innovative projects, especially in **AI**, **Cybersecurity**, and **Startup Ventures**. Feel free to reach out!
 
 **Open to:**
-- 🚀 Startup Collaborations
-- 🤖 AI/ML Projects
-- 🔒 Cybersecurity Research
-- 💼 Consulting Opportunities
+- 🚀 Startup Collaborations & Co-founding Opportunities
+- 🤖 AI/ML & Automation Projects
+- 🔄 n8n Workflow Consulting & Development
+- 🔒 Cybersecurity Research & Automation
+- 💼 AI Integration & Consulting
 - 🎓 Mentorship & Knowledge Sharing
 
 ### 📫 How to reach me:
