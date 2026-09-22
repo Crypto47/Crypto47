@@ -1,183 +1,60 @@
-# Hi there, I'm Musaab Javed 👋
+<h1 align="center">Musaab Javed</h1>
 
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=header&text=Musaab%20Javed&fontSize=80&fontAlignY=35" alt="Profile Header"/>
-</div>
-
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Automation+Specialist;n8n+Workflow+Expert;Co-Founder+%40+WhisperFrames;Building+Intelligent+Automation+Systems" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
-    <a href="mailto:musabjaved47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/musabjaved/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Crypto47&icon=2&color=gradient" alt="Profile Visits"/>
-</div>
-
-## 🚀 About Me
-
-I'm **Musaab Javed**, a passionate **AI Engineer**, **Workflow Automation Specialist**, **Cybersecurity Enthusiast**, and **Software Entrepreneur** based in Lahore, Pakistan. I specialize in building intelligent automation systems that bridge AI capabilities with real-world workflows. Currently leading **WhisperFrames**, an AI-driven startup protecting digital rights through deep learning and steganography, while architecting complex automation pipelines at **Zaltech AI**.
-
-```python
-class MusaabJaved:
-    def __init__(self):
-        self.role = "AI Engineer & Automation Specialist"
-        self.location = "Lahore, Pakistan"
-        self.education = "PIEAS - Senior Student"
-        self.current_focus = ["Generative AI", "Workflow Automation", "RAG Systems"]
-        self.specialties = ["n8n Automation", "AI Integration", "Cybersecurity"]
-        self.startup = "WhisperFrames - Co-Founder"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's automate something amazing together.")
-
-me = MusaabJaved()
-me.say_hi()
-```
-
-## 🎓 Education & Leadership
-
-| Institution | Details | Role |
-|------------|---------|------|
-| **Pakistan Institute of Engineering and Applied Sciences (PIEAS)** | Senior Student | President, PIEAS Cyber Security Club |
-| **Government College University, Lahore** | ICS | Roll of Honor |
-
-## 🏆 Awards & Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Crypto47&theme=dracula&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-- 🥇 **Winner** - AGHOSH PIEAS
-- 🥇 **Winner** - Zindigi Prize PIEAS
-- 🥈 **Runner-up** - Zindigi Prize Islamabad Regionals
-
-## 🌟 Featured Project: WhisperFrames
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
-    <img src="https://img.shields.io/badge/Stage-Startup-blue?style=for-the-badge" alt="Stage"/>
-    <img src="https://img.shields.io/badge/Awards-3-gold?style=for-the-badge" alt="Awards"/>
-</div>
-
-### 🎨 AI-Powered Digital Rights Protection
-
-**WhisperFrames** is an innovative AI-driven startup focused on protecting digital content through advanced steganography. Using deep learning GANs, we embed invisible watermarks into images for verification and tracking.
-
-**Key Features:**
-- 🔐 **Deep Learning GAN-based Steganography** - Invisible data embedding
-- 🎯 **Image Originality Verification** - Track and verify content ownership
-- ⚡ **FastAPI Backend** - High-performance API infrastructure
-- 🤖 **OpenAI Integration** - Enhanced AI capabilities
-
-**Tech Stack:**
-```
-FastAPI • TensorFlow/PyTorch • GANs • OpenAI APIs • Python • React
-```
-
-**Achievements:**
-- 🏆 Winner: AGHOSH PIEAS
-- 🏆 Winner: Zindigi Prize PIEAS
-- 🥈 Runner-up: Zindigi Prize Islamabad Regionals
-
----
-
-## 💼 Professional Experience
-
-### 🤖 **Zaltech AI** - *AI Engineer*
-*Building Production-Ready AI Solutions & Intelligent Automation*
-
-- 🔧 Developing and deploying APIs using **FastAPI**
-- 🔄 Architecting complex **n8n automation workflows** integrating AI agents
-- 🗄️ Managing vector databases with **Pinecone** for RAG systems
-- 🧠 Integrating custom NLP models with **Ollama** and **OpenAI APIs**
-- 📊 Building end-to-end **RAG (Retrieval-Augmented Generation)** pipelines
-- 🤖 Creating intelligent automation systems with multi-agent workflows
-- 🚀 Deploying scalable AI solutions for enterprise clients
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <b>AI Engineer</b> — LLM applications, RAG systems and agentic automation<br>
+  <i>Production over notebooks.</i>
 </p>
 
-### 🚀 Frameworks & Libraries
 <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
-
-### 🧠 AI/ML & Tools
-<p align="center">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-    <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-    <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
-    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-</p>
-
-### 🔒 Cybersecurity & DevOps
-<p align="center">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <a href="https://musaab-javed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/musabjaved"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:musabjaved47@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Lahore,%20PK-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Open%20to%20work-2EA043?style=for-the-badge" alt="Open to work">
 </p>
 
 ---
 
-## 🌱 Currently Learning & Exploring
-
-```javascript
-const currentlyLearning = {
-    ai_ml: ["Advanced RAG Architectures", "LLM Fine-tuning (LoRA/QLoRA)", "Production ML Deployment"],
-    automation: ["Advanced n8n Workflows", "Multi-Agent Systems", "AI-Powered Automation"],
-    cybersecurity: ["Advanced Pen Testing", "Security Automation", "Threat Intelligence"],
-    cloud: ["AWS/GCP", "Kubernetes", "Serverless Architectures"],
-    research: ["GAN Optimization", "Steganography Techniques", "Model Compression"]
-};
-```
+I build AI systems that run in production, not in notebooks. Currently working independently with EU and US clients on retrieval pipelines, multi-agent automation and the FastAPI services that hold them together. Previously led a small AI team at Tkrupt.
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Work
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crypto47&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto47&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
-</div>
+### [arabic-ocr-post-correction](https://github.com/Crypto47/arabic-ocr-post-correction)
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crypto47&theme=dracula&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
+A 0.5B language model that repairs Arabic OCR output — the step between *"we scanned the archive"* and *"the archive is searchable."*
 
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crypto47&theme=dracula&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
+No paired Arabic OCR corpus exists, so the supervision is generated: a script-aware confusion model that breaks clean text the way a scanner actually breaks it — dot and skeleton confusion, word splits and merges — weighted by real failure modes. A production guardrail rejects rewrites rather than repairs.
 
-### 🐍 Contribution Snake
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Crypto47/Crypto47/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+| | CER | WER |
+|---|---|---|
+| Raw OCR (do nothing) | 0.0808 | 0.4112 |
+| Untuned Qwen2.5-0.5B | 1.8123 | 2.2680 |
+| **Fine-tuned + guardrail** | **0.0671** | **0.2042** |
+
+**Word error 41.1% → 20.4%** — a 50.3% reduction. Trained in 80 minutes on a single laptop GPU. Runs on CPU, on-premise.
+
+`LoRA` `PEFT` `Qwen` `Arabic NLP` `Small Language Models`
+
+### [PineCone-RAG-Assistant](https://github.com/Crypto47/PineCone-RAG-Assistant)
+
+Retrieval-augmented assistant over Pinecone — document ingestion, embedding and semantic search with an LLM answer layer.
+
+`RAG` `Pinecone` `Vector Search` `Embeddings`
+
+---
+
+## 📊 Impact
+
+| | |
+|---|---|
+| 🔻 **10–20x** | cost-per-output reduction on a live LLM pipeline (~$1K/mo → $50–100/mo) |
+| 📚 **5,000+** | document corpora in production RAG pipelines — analyst review cycles cut 50% |
+| ⚡ **Sub-5s** | responses at 50+ concurrent users, serving 1,000+ users |
+| 🔌 **40%** | reduction in new-integration time via a modular MCP-style tool layer |
+| 🛡️ **60%** | reduction in production pipeline failure rates |
+| 👥 **3** | engineers led at Tkrupt |
 
 ---
 
@@ -185,50 +62,50 @@ const currentlyLearning = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
-- Generative AI & LLMs
-- RAG Systems Architecture
-- Model Fine-tuning (LoRA/QLoRA)
-- Deep Learning (GANs, CNNs)
-- NLP & Embeddings
-- Vector Databases (Pinecone)
+### 🤖 Generative AI & LLMs
+
+- RAG systems architecture & retrieval evaluation
+- Model fine-tuning (LoRA / QLoRA / PEFT)
+- Prompt engineering & token optimisation
+- NLP, embeddings & semantic search
+- Model routing, serving & cost optimisation
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Workflow Automation
-- **n8n Advanced Workflows**
-- Multi-Agent AI Systems
-- API Integration & Orchestration
-- LinkedIn Automation
-- Data Pipeline Engineering
-- Intelligent Process Automation
+### ⚡ Agents & Automation
+
+- Multi-agent systems & orchestration
+- Tool / function calling, MCP-style layers
+- LangChain & LangGraph pipelines
+- n8n advanced workflows
+- API integration & data pipeline engineering
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Cybersecurity
-- Penetration Testing
-- Security Automation
-- Steganography & Cryptography
-- Threat Analysis
-- Network Security
-- Secure System Design
+### 🔧 Backend & Infrastructure
+
+- FastAPI & REST API design
+- Docker & cloud deployment (AWS / GCP)
+- Vector databases & schema design
+- Evaluation, observability & monitoring
+- CI/CD and production reliability
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Full Stack Development
-- FastAPI & REST APIs
-- React & Modern JavaScript
-- Database Design & Management
-- Cloud Deployment (AWS/GCP)
-- Microservices Architecture
-- DevOps & CI/CD
+### 🔐 Security & Applied ML
+
+- ISC2 Certified in Cybersecurity (CC)
+- Secure system & API design
+- Deep learning (GANs, CNNs)
+- Steganography & digital watermarking
+- Threat analysis fundamentals
 
 </td>
 </tr>
@@ -236,67 +113,103 @@ const currentlyLearning = {
 
 ---
 
-## 📝 Latest Blog Posts & Articles
+## 🛠️ Technical Skills
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section auto-updates via GitHub Actions -->
-- Coming Soon: Technical deep-dives on AI, Cybersecurity, and Startup Building
-<!-- BLOG-POST-LIST:END -->
+**Languages**
 
-➡️ [Read more on Medium](https://medium.com/@yourusername)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=meta&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-00C853?style=for-the-badge&logo=nvidia&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logo=lightning&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**LLM Providers**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Vector Stores**
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Infrastructure & Automation**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-## 🎨 Featured Repositories
+## 💼 Experience
 
-<div align="center">
-    <a href="https://github.com/Crypto47/whisperframes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crypto47&repo=whisperframes&theme=dracula&hide_border=true" />
-    </a>
-    <a href="https://github.com/Crypto47/cybersecurity-toolkit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crypto47&repo=cybersecurity-toolkit&theme=dracula&hide_border=true" />
-    </a>
-</div>
+| Role | Where | When |
+|---|---|---|
+| **Independent AI Consultant** | Remote — EU & US clients | Aug 2026 – present |
+| **AI Integrations Engineer** | Tkrupt, Lahore | Apr 2025 – Aug 2026 |
+| **AI Engineer** | Zaltech AI, Lahore | Jul 2024 – Mar 2025 |
+| **Freelance Full-Stack Developer** | Fiverr | Feb 2022 – Aug 2024 |
 
 ---
 
-## 💡 Random Dev Quote
+## 🏆 Whisper Frames
 
-<div align="center">
+Co-founder. Deep-learning image steganography for digital rights protection and content-ownership verification.
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm always interested in collaborating on innovative projects, especially in **AI**, **Cybersecurity**, and **Startup Ventures**. Feel free to reach out!
-
-**Open to:**
-- 🚀 Startup Collaborations & Co-founding Opportunities
-- 🤖 AI/ML & Automation Projects
-- 🔄 n8n Workflow Consulting & Development
-- 🔒 Cybersecurity Research & Automation
-- 💼 AI Integration & Consulting
-- 🎓 Mentorship & Knowledge Sharing
-
-### 📫 How to reach me:
-[![Email](https://img.shields.io/badge/Email-musabjaved47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musabjaved47@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musabjaved/)
-
-</div>
+🌍 Exhibited at **GISEC Global 2025**, Dubai World Trade Centre
+🥈 Runner-up, **Zindigi Prize 2024** Islamabad Regionals — against 85+ startups
+🚀 Selected for **National Incubation Center Lahore**, Cohort 3
 
 ---
 
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" alt="Footer"/>
-</div>
+## 🌱 Currently Exploring
 
-<div align="center">
-    <sub>💡 <strong>Always learning, always growing.</strong></sub>
-    <br>
-    <sub>
+```js
+const exploring = {
+  protocols:  ["MCP server design", "agent interoperability"],
+  evaluation: ["LLM-as-judge harnesses", "retrieval eval at scale"],
+  serving:    ["quantisation & model compression", "on-prem CPU inference"],
+  research:   ["Arabic NLP", "synthetic supervision for low-resource tasks"],
+};
+```
+
+---
+
+## 🎓 Education
+
+**BS Computer Science** — Pakistan Institute of Engineering & Applied Sciences (PIEAS), 2020–2024
+**ISC2 Certified in Cybersecurity (CC)** · **LangChain for LLM Application Development** (DeepLearning.AI)
+
+---
+
+<p align="center">
+  <i>Open to AI engineering roles — remote, Lahore or GCC.</i><br>
+  <a href="mailto:musabjaved47@gmail.com">musabjaved47@gmail.com</a>
+</p>
